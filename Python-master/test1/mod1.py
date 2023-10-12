@@ -9,5 +9,6 @@ def f2():
 if __name__ == '__main__':
     print("hello mod1")
     
+    print ("jai ajouté du code ici")
     
     
